@@ -1,4 +1,4 @@
 # fertile.machine
 A Machine can fertile
 
-Link of the website "https://mrq67.github.io/fuzzy-spoon/site/"
+Link of the website "https://mrq67.github.io/fertile.machine/site/"
