@@ -14,7 +14,7 @@ p {
 	margin-left: 30%;
 	clear: both;
 }
-@media (min-width:755px) , (max-width:950px) {
+@media (min-width:330px) , (max-width:950px) {
 	p{
 		text-transform: uppercase;
 		color: cyan;
