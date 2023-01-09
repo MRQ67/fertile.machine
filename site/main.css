@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+h1 {
+	text-align: center;
+	color: blue;
+	font-family: sans-serif;
+}
+p {
+	text-transform: capitalize;
+	color: orangered;
+
+}
+#tree {
+	margin-left: 30%;
+	clear: both;
+}
+@media (min-width:755px) , (max-width:950px) {
+	p{
+		text-transform: uppercase;
+		color: cyan;
+	}
+}
