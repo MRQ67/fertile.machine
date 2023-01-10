@@ -1,0 +1,17 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #041227 ;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  top: 20px;
+  color: white;
+
+}
+.ki {
+  margin-top: 50px;
+  height: 150px;
+  width: 100%;
+}
